@@ -1,0 +1,7 @@
+{
+  "name": "builder",
+  "builders": "./builders.json",
+  "dependencies": {
+    "@angular-devkit/architect": "^0.1200.1"
+  }
+}

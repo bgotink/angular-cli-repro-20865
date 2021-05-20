@@ -1,0 +1,9 @@
+{
+  "builders": {
+    "repro": {
+      "implementation": "./builder",
+      "schema": "./schema.json",
+      "description": "Reproduce logging issue"
+    }
+  }
+}

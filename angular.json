@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "projects": {
+    "repro": {
+      "root": ".",
+      "targets": {
+        "test": {
+          "builder": "builder:repro"
+        }
+      }
+    }
+  }
+}
